@@ -9,7 +9,10 @@
 <p align="left">:nerd_face: I like to programing and resolve problems of real life!</p>
 <p align="left">:heavy_check_mark: I like challenges</p>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
-
+<div>
+  <p> I'm a junior developer with a lot of energy for learning programming languages, algorithms, and improving my soft skills. :nerd_face: </p>
+  <p> Throughout my career, I have resolved many problems using different programming languages. I have used Java, C++, C, and Python. I have also learned about databases such as MySQL, PostgreSQL, and a little bit of MongoDB. Furthermore, I was a member of the Algorithm Club at ESCOM</p>
+</div>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
