@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-:computer: I’m currently **Developer Full-Stack**
+:computer: I’m currently **Developer**
+:computer: I studied in ESCOM as **Computer Systems Engineer**
+:computer: I like to programing and resolve problems of real life!
+:heavy_check_mark: I like challenges
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 
