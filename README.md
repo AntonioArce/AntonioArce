@@ -21,7 +21,12 @@
 
 <hr width="36%" >
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioArce&show_icons=true)](https://github.com/AntonioArce/github-readme-stats&show_icons=true)
+
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AntonioArce">
+<img alt="top langs" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioArce&layout=compact">
+
+<hr width="36%" >
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
