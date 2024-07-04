@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="left">:computer: I’m currently **Developer**</p>
-<p align="left">:computer: I studied in ESCOM as **Computer Systems Engineer**</p>
-<p align="left">:computer: I like to programing and resolve problems of real life!</p>
-<p align="left">:heavy_check_mark: I like challenges</p>
+
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 
