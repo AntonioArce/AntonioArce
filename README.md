@@ -70,6 +70,8 @@
 
 <hr width="36%" >
 
+<p>I've done many projects at my university.</p>
+
 
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AntonioArce">
 <img alt="top langs" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioArce&layout=compact">
