@@ -62,6 +62,9 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://miro.medium.com/v2/resize:fit:256/0*Qrh5x0L5XWFRvA9P.png" alt="tailwind" width="40" height="40">
 </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="tailwind" width="40" height="40">
+</a>
 </p><br>
 
 
