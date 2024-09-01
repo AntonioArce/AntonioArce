@@ -65,6 +65,9 @@
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
   <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="tailwind" width="40" height="40">
 </a>
+<a href="https://reactnative.dev" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" alt="tailwind" width="40" height="40">
+</a>
 </p><br>
 
 
