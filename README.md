@@ -2,8 +2,6 @@
 
 <h1 align="center">I'm Antonio Arce 🖥️ </h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <p align="left">:computer: I’m currently Developer</p>
 <p align="left">📚 I have studied Computer Systems Engineering at ESCOM</p>
 <p align="left">:nerd_face: I like to programing and resolve problems of real life!</p>
